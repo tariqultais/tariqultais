@@ -30,9 +30,16 @@ The roadmap has a number of useful features to come!
 
 In case you would simply like a public badge to count your visitors, try [GitHub Profile Views Counter].
 
+<p align="center">
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=tariqultais">
 </a>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p>
+
+
+
+
 
 
 <!-- thropy -->
