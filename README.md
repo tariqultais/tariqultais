@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">### Hi there 👋<p>
+<p align="center"> ### Hi there 👋<p>
 
 <p align="center">
-My name is Tariqul Islam. <br> Welcome to GITHUB profile. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+My name is Tariqul Islam. <br> Welcome to GITHUB profile.
 <p>
 
 <p align="center">
