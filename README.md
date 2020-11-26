@@ -35,7 +35,20 @@ In case you would simply like a public badge to count your visitors, try [GitHub
 </a>
 
 
-![](https://hit.yhype.halp.im/github/profile?user_id=1849174)
+<!-- thropy -->
+<a href="https://tariqultais.github.io">
+    <p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=tariqultais&column=7&theme=onedark"/>
+    </p>
+</a>
+
+<!-- status codes -->
+<a align="center" href="https://tariqultais.github.io">
+    <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=tariqultais&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tariqultais&layout=compact&theme=tokyonight" alt="languages" height="165">
+    </p>
+</a>
+
 
 
 
