@@ -37,7 +37,7 @@ My name is Tariqul Islam. <br> Welcome to GITHUB profile.
 
 
 
-
+<tr>
 <!-- thropy -->
 <a href="https://tariqultais.github.io">
     <p align="center">
@@ -51,7 +51,7 @@ My name is Tariqul Islam. <br> Welcome to GITHUB profile.
     <img src="https://github-readme-stats.vercel.app/api?username=tariqultais&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tariqultais&layout=compact&theme=tokyonight" alt="languages" height="165">
     </p>
 </a>
-
+<tr>
 
 
 
