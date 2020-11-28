@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <p align="center"> <h2>Hi there 👋 <h2><p>
 
 <p align="center">
-I'm Tariqul Islam. <br> Welcome to My GITHUB profile.
+I'm Tariqul Islam. <br> Welcome to my GITHUB profile.
 <p>
 
 <p align="center">
