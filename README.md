@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center"> <b> ### Hi there 👋 <b><p>
+<p align="center"> <b>Hi there 👋 <b><p>
 
 <p align="center">
 My name is Tariqul Islam. <br> Welcome to GITHUB profile.
