@@ -4,14 +4,7 @@
     <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60" align="right"/> 
 </div>
 
-<!-- <p align="center"> -->
-<a href="https://github.com/shihabmahamud" target="_blank"><img src="https://img.shields.io/github/followers/shihabmahamud?label=follow&style=social"></a>
-<a href="https://twitter.com/shihabmahamud10" target="_blank"><img src="https://img.shields.io/twitter/follow/shihabmahamud26" alt="Twitter"></a>
-<a href="https://www.linkedin.com/in/shihab-mahamud-19b1341b6" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-<a href="https://medium.com/@shihabmahamud" target="_blank"><img src="http://img.shields.io/badge/-@shihabmahamud-_?label=Medium&style=social&logo=medium" alt="Medium"></a>
-<a href="https://stackoverflow.com/users/14192124/shihab-mahamud" target="_blank"><img src="https://img.shields.io/stackexchange/stackoverflow/r/14192124?logo=stack-overflow&style=social" alt="StackOverflow"></a>
-	
-<!-- </p> -->
+
 
 
 <!--
@@ -40,6 +33,22 @@ I'm Tariqul Islam. <br> Welcome to my GITHUB profile.
 </a>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p>
+
+
+
+
+
+<!-- <p align="center"> -->
+<a href="https://github.com/shihabmahamud" target="_blank"><img src="https://img.shields.io/github/followers/shihabmahamud?label=follow&style=social"></a>
+<a href="https://twitter.com/shihabmahamud10" target="_blank"><img src="https://img.shields.io/twitter/follow/shihabmahamud26" alt="Twitter"></a>
+<a href="https://www.linkedin.com/in/shihab-mahamud-19b1341b6" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+<a href="https://medium.com/@shihabmahamud" target="_blank"><img src="http://img.shields.io/badge/-@shihabmahamud-_?label=Medium&style=social&logo=medium" alt="Medium"></a>
+<a href="https://stackoverflow.com/users/14192124/shihab-mahamud" target="_blank"><img src="https://img.shields.io/stackexchange/stackoverflow/r/14192124?logo=stack-overflow&style=social" alt="StackOverflow"></a>
+	
+<!-- </p> -->
+
+
+
 
 
 
