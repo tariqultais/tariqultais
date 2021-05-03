@@ -40,7 +40,7 @@ I'm Tariqul Islam. <br> Welcome to my GITHUB profile.
 
 <!-- <p align="center"> -->
 <a href="https://github.com/tariqultais" target="_blank"><img src="https://img.shields.io/github/followers/shihabmahamud?label=follow&style=social"></a>
-<a href="https://twitter.com/tariqul_tais" target="_blank"><img src="https://img.shields.io/twitter/follow/shihabmahamud26" alt="Twitter"></a>
+<a href="https://twitter.com/tariqul_tais" target="_blank"><img src="https://img.shields.io/twitter/follow/tariqultais" alt="Twitter"></a>
 <a href="https://www.linkedin.com/in/tariqultais" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 <!--
 <a href="https://medium.com/@shihabmahamud" target="_blank"><img src="http://img.shields.io/badge/-@shihabmahamud-_?label=Medium&style=social&logo=medium" alt="Medium"></a>
