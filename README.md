@@ -52,7 +52,7 @@ I'm Tariqul Islam. <br> Welcome to my GITHUB profile.
 </a>
 
 <div>
-    <h1 align="center"> Watch a 🐍 eating my contribution graph</h1>
+    <h3 align="center"> Watch a 🐍 eating my contribution graph</h3>
 <p align="center">
   <img src="https://github.com/sakshiisaxena/sakshiisaxena/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
