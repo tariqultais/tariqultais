@@ -37,12 +37,6 @@ I'm Tariqul Islam. <br> Welcome to my GITHUB profile.
 
 
 
-<!-- thropy -->
-<a href="https://tariqultais.github.io">
-    <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=tariqultais&column=7&theme=onedark"/>
-    </p>
-</a>
 
 <!-- status codes -->
 <a align="center" href="https://tariqultais.github.io">
@@ -51,6 +45,12 @@ I'm Tariqul Islam. <br> Welcome to my GITHUB profile.
     </p>
 </a>
 
+<!-- thropy -->
+<a href="https://tariqultais.github.io">
+    <p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=tariqultais&column=7&theme=onedark"/>
+    </p>
+</a>
 <div>
     <h3 align="center"> Watch a 🐍 eating my contribution graph</h3>
 <p align="center">
