@@ -35,7 +35,7 @@ I'm Tariqul Islam. <br> Welcome to my GITHUB profile.
 <p>
     
 
-[![Linkedin Badge](https://img.shields.io/badge/-tariqultais-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tariqultais/)](https://www.linkedin.com/in/tariqultais/) [![Twitter Badge](https://img.shields.io/badge/-@tariqul_tais?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tariqultais)](https://twitter.com/tariqultais) <!-- [![Medium Badge](https://img.shields.io/badge/-@amirulislamalmamun-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@amirulislamalmamun/)](https://medium.com/@amirulislamalmamun) [![Gmail Badge](https://img.shields.io/badge/-tariqul.tais@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amirulislamalmamun@gmail.com)](mailto:amirulislamalmamun@gmail.com)-->
+[![Linkedin Badge](https://img.shields.io/badge/-tariqultais-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tariqultais/)](https://www.linkedin.com/in/tariqultais/) [![Twitter Badge](https://img.shields.io/badge/-@tariqul_tais?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tariqul_tais)](https://twitter.com/tariqul_tais) <!-- [![Medium Badge](https://img.shields.io/badge/-@amirulislamalmamun-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@amirulislamalmamun/)](https://medium.com/@amirulislamalmamun)--> [![Gmail Badge](https://img.shields.io/badge/-tariqul.tais@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amirulislamalmamun@gmail.com)](mailto:amirulislamalmamun@gmail.com)
 
 <!-- ![short bio](me.png) -->
 
