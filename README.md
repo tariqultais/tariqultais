@@ -35,7 +35,9 @@ I'm Tariqul Islam. <br> Welcome to my GITHUB profile.
 <p>
     
 
-[![Linkedin Badge](https://img.shields.io/badge/-tariqultais-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tariqultais/)](https://www.linkedin.com/in/tariqultais/) [![Twitter Badge](https://img.shields.io/badge/-@tariqul_tais?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tariqul_tais)](https://twitter.com/tariqul_tais)  [![Gmail Badge](https://img.shields.io/badge/-tariqul.tais@yahoo.com-430297?style=flat-square&logo=yahoo&logoColor=white&link=mailto:tariqul.tais@yahoo.com)](mailto:tariqul.tais@yahoo.com)
+[![Linkedin Badge](https://img.shields.io/badge/-tariqultais-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tariqultais/)](https://www.linkedin.com/in/tariqultais/) [![Twitter Badge](https://img.shields.io/badge/-@tariqul_tais?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tariqul_tais)] [https://img.shields.io/twitter/url?label=tariqul&style=social] (https://twitter.com/tariqul_tais)  [![Gmail Badge](https://img.shields.io/badge/-tariqul.tais@yahoo.com-430297?style=flat-square&logo=yahoo&logoColor=white&link=mailto:tariqul.tais@yahoo.com)](mailto:tariqul.tais@yahoo.com)
+    
+    https://img.shields.io/twitter/url?label=tariqul&style=social
 
 <!-- ![short bio](me.png) -->
 
