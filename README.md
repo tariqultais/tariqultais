@@ -37,12 +37,7 @@ I'm Tariqul Islam. <br> Welcome to my GITHUB profile.
 
 [![Linkedin Badge](https://img.shields.io/badge/-tariqultais-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tariqultais/)](https://www.linkedin.com/in/tariqultais/) <!--[![Twitter Badge](https://img.shields.io/badge/-@tariqul_tais?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tariqul_tais)] --> [![Gmail Badge](https://img.shields.io/badge/-tariqul.tais@yahoo.com-430297?style=flat-square&logo=yahoo&logoColor=white&link=mailto:tariqul.tais@yahoo.com)](mailto:tariqul.tais@yahoo.com)
     
-
-
-<!-- ![short bio](me.png) -->
-
-I am Amirul Islam Al Mamun 😃 from Dhaka, Bangladesh. I am a passionate problem solver and backend developer. I love to explore and learn about new things.
-    
+  
 
 
 <!-- status codes -->
