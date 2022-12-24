@@ -228,14 +228,14 @@ I'm Tariqul Islam. <br> Welcome to my GITHUB profile.
 
 <!--
 
-<!-- status codes -->
+
 <a align="center" href="https://tariqultais.github.io">
     <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=tariqultais&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tariqultais&layout=compact&theme=tokyonight" alt="languages" height="165">
     </p>
 </a>
 
-<!-- thropy -->
+
 <a href="https://tariqultais.github.io">
     <p align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=tariqultais&column=7&theme=onedark"/>
