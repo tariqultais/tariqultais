@@ -139,11 +139,12 @@
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tariqultais&theme=merko" />
 </p>
 <br>
+ <!--
 <br>
 <div align="center">
   <img  src="https://github.com/0xAshik/GitubSVGs/blob/main/grid-snake.svg"
        alt="snake" /></a>
-</div>
+</div>-->
 
 
 
@@ -225,7 +226,7 @@ I'm Tariqul Islam. <br> Welcome to my GITHUB profile.
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-tariqultais-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tariqultais/)](https://www.linkedin.com/in/tariqultais/) [![Twitter Badge](https://img.shields.io/badge/-@tariqul_tais?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tariqul_tais)][![Gmail Badge](https://img.shields.io/badge/-tariqul.tais@yahoo.com-430297?style=flat-square&logo=yahoo&logoColor=white&link=mailto:tariqul.tais@yahoo.com)](mailto:tariqul.tais@yahoo.com) -->
     
 
-
+<!--
 
 <!-- status codes -->
 <a align="center" href="https://tariqultais.github.io">
