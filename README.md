@@ -15,7 +15,7 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-## :sassy_man: Who am I? (Breifly):
+## 👨‍🎓: Who am I? (Breifly):
 - :school: I am a `Student` at Department of Computer Science and Engineering at Uttara University
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer mainly at `Codeforces` and `Codechef`
