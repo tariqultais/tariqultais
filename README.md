@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi , I'm Tariqul Islam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center" justyfi="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+and+Engineering;Uttara+University;Competitive+Programmer+at+codechef;Capture+The+Flag+player;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Cyber+Security+Enthusiast;Research+Novice ;CTF+Player;"></a>
 </p>
 <br>
-<h2 align="left">👦 Github Stats:</h2>
+<h2 align="left">🙋 Github Stats:</h2>
 
 <div align="left">
 
