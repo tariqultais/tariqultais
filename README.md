@@ -184,13 +184,12 @@
 
 
 
-
-<!-- top left 
+<!--
 <div>
     <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60"/> 
     <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60" align="right"/> 
 </div>
-
+-->
 
 
 
@@ -208,6 +207,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--															
 <p align="center"> <h2>Hi there 👋 <h2><p>
 
 <p align="center">
@@ -221,7 +221,7 @@ I'm Tariqul Islam. <br> Welcome to my GITHUB profile.
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p>
     
-
+-->
 [![Linkedin Badge](https://img.shields.io/badge/-tariqultais-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tariqultais/)](https://www.linkedin.com/in/tariqultais/) <!--[![Twitter Badge](https://img.shields.io/badge/-@tariqul_tais?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tariqul_tais)] --> [![Gmail Badge](https://img.shields.io/badge/-tariqul.tais@yahoo.com-430297?style=flat-square&logo=yahoo&logoColor=white&link=mailto:tariqul.tais@yahoo.com)](mailto:tariqul.tais@yahoo.com)
     
   
