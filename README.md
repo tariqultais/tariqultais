@@ -135,8 +135,8 @@
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=0xAshik&show_icons=true&theme=merko" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xAshik&theme=merko" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=tariqultais&show_icons=true&theme=merko" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tariqultais&theme=merko" />
 </p>
 <br>
 <br>
@@ -185,7 +185,7 @@
 
 
 
-<!-- top left -->
+<!-- top left 
 <div>
     <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60"/> 
     <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60" align="right"/> 
@@ -240,6 +240,7 @@ I'm Tariqul Islam. <br> Welcome to my GITHUB profile.
         <img src="https://github-profile-trophy.vercel.app/?username=tariqultais&column=7&theme=onedark"/>
     </p>
 </a>
+	-->												
 <div>
     <h3 align="center"> Watch a 🐍 eating my contribution graph</h3>
 <p align="center">
