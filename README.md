@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Cyber+Security+Enthusiast;Research+Novice ;CTF+Player;"></a>
 </p>
 <br>
-<h2 align="left">🙋 Github Stats:</h2>
+<h2 align="left">👦 Github Stats:</h2>
 
 <div align="left">
 
