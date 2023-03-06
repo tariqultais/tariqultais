@@ -29,7 +29,7 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=algolia" alt="7oSkaaa" /></p>
 
 <br>
-<br> -->
+<br> 
 
 
 ## 👀 My Competitive Programming Profiles
@@ -132,7 +132,7 @@
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>	  
 </p>
-<br/>
+<br/>-->
 
 ## 📟 GitHub Stats
 <p align="center">
