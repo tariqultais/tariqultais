@@ -28,10 +28,9 @@
 <!-- ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=algolia" alt="7oSkaaa" /></p>
 
-<br>
-<br> 
+<br>-->
 
-
+<!--
 ## 👀 My Competitive Programming Profiles
 
 <p align="center">
@@ -42,7 +41,7 @@
 <!-- 	<a href="https://icpc.global/ICPCID/IW0X0CTD0ZV9"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global"/></a>     
 	<a href="https://www.codingame.com/profile/e5e56c7585fda3b457056b85180a4d636850344" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50"> -->
 </p>
-
+-->
 <br>
 <!-- ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me -->
 <h2>Contact with me </h2>
