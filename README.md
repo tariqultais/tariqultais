@@ -11,6 +11,7 @@
 
 ![profile visit](https://komarev.com/ghpvc/?username=tariqultais)
 </div>
+
 <p align="left"> <a href="https://twitter.com/tariqul_tais" target="blank"><img src="https://img.shields.io/twitter/follow/tariqul_tais?logo=twitter&style=for-the-badge" alt="tariqul_tais" /></a> </p>
 <br>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
